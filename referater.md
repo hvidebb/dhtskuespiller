@@ -9,7 +9,7 @@ Dagsorden:
 > }}}
 > {{{ 17/07 - 2017
 # Referat 17 Juli 2017.
-Tilstedeværende:
+- Tilstedeværende:
     * Bjarke,
     * Nadia,
     * Erik Canter,
