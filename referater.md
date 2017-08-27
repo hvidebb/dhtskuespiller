@@ -1,10 +1,11 @@
 > {{{ 27/08 - 2017
+# Referat 27 August 2017
 Dagsorden:
-  - Snak om drinks
-  - Snak om mad (Stinne og Elizabeth det kunne vel være fedt hvis I kunne komme.)
-  - Lav pris liste
-  - Aftal indkøb
-  - Lav bar plan
+    - Snak om drinks
+    - Snak om mad (Stinne og Elizabeth det kunne vel være fedt hvis I kunne komme.)
+    - Lav pris liste
+    - Aftal indkøb
+    - Lav bar plan
 > }}}
 > {{{ 17/07 - 2017
 # Referat 17 Juli 2017.
@@ -112,7 +113,7 @@ Tilstedeværende:
     - Vi skal lige have fundet ud af hvordan vi for folk til at møde op kl. 15.00 til sommerfesten, hvis selve festen starter kl 18.00.
 > }}}
 > {{{ 30/04 - 2017
-Skuespillerrådsmøde 30 April 2017.
+# Referat 30 April 2017.
 Nyt skuespillerråd.
   - Bjarke B. Bojesen.
   - Nadia.
@@ -183,6 +184,7 @@ Bliv enige om hvordan vi laver fredagsbar(kan man sige jeg gider ikke mere under
 
 > }}}
 > {{{ 10/04 - 2017
+# Referat 10 April 2017
 Dagsorden:
     - Kunsteriske møde. 
     - Hold hjemme.
@@ -203,6 +205,7 @@ Fredagsbar:
     - Reklame til eventet.
 > }}}
 > {{{ 27/03 - 2017
+# Referat 27 Marts 2017
 1. Fredagsbar d. 21/4 - 17.
     - Stjernenat.
     - Karoki set-up, med lyd, og projekter med tekster.
@@ -242,6 +245,7 @@ Fredagsbar:
         - Forud bestilling.
 > }}}
 > {{{ 27/02 - 2017
+# Referat 27 Februar 2017
 1. Goodbye Earl fredagsbar.
     - d. 11.
  
