@@ -10,10 +10,10 @@ Dagsorden:
 > {{{ 17/07 - 2017
 # Referat 17 Juli 2017.
 Tilstedeværende:
-    - Bjarke,
-    - Nadia,
-    - Erik Canter,
-    - Eric Ericson.
+    * Bjarke,
+    * Nadia,
+    * Erik Canter,
+    * Eric Ericson.
 
 ## Sommerfest d. 2 Setember.
   Man kunne kalde det Hemli-forum og Mullet-møde.
