@@ -1,8 +1,9 @@
-# 2017-09-02(Sommerfest)
+2017-09-02(Sommerfest)
+----------------------
 ## Øl
-- Carsberg Pils:              04 kasse(r)(4 * 6 flasker) + 10 flaske(r).
-- Tubor Pils:                 15 flaske(r)
-- Royal Classic:              03 flaske(r)
+Carsberg Pils:                04 kasse(r)(4 * 6 flasker) + 10 flaske(r).
+Tubor Pils:                   15 flaske(r)
+Royal Classic:                03 flaske(r)
 
 ## Sodavand
 Fantaer:                      05 flaske(r)

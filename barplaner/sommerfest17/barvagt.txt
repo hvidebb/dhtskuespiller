@@ -1,0 +1,16 @@
+20.00 - 21.00
+    Erik Cantor og Nadia.
+21.00 - 22.00
+    Bjarke og Elizabeth.
+22.00 - 23.00
+    Erik Erikson og Casper.
+23.00 - 24.00
+    Erik Cantor og Stinne.
+24.00 - 01.00
+    Bjarke og Nadia.
+01.00 - 02.00
+    Erik Erikson og Stinne.
+02.00 - 03.00
+    Elizabeth og Casper.
+
+

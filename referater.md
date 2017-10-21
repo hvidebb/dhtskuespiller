@@ -1,11 +1,159 @@
 > {{{ 27/08 - 2017
 # Referat 27 August 2017
-Dagsorden:
-    - Snak om drinks
+- Tilstedeværende:
+    - Erik Laursen Canter
+    - Bjarke Bredow Bojesen
+    - Nadia Schartz
+
+- Dagsorden:
+    - Drikkevare i baren.
     - Snak om mad (Stinne og Elizabeth det kunne vel være fedt hvis I kunne komme.)
-    - Lav pris liste
-    - Aftal indkøb
-    - Lav bar plan
+    - Lav pris liste.
+    - Aftal indkøb.
+    - Lav bar plan.
+
+## Snak om drinks
+- Drikkevare i baren.
+    - PinaColada
+    - Lemonade
+    - Tequala Sunrice
+    - Øl
+    - Sjusser
+    - Shots
+    - Sodavand
+
+## Snak om mad.
+Vi har 3000 kr. max til mad og drikke.
+- Middag.
+    - Coldslaw                  (Erik)
+    - Boller                    (Erik)
+    - Pork                      (Erik)
+    - Flødekatofler             (Stinne måske)
+    - Pastasalat                (Bjarke og Nadia)
+- Desert
+    - Brownie.                  (Elizabeth)
+    - Is                        (Elizabeth)
+    - Frugt.                    (Elizabeth)
+- Natmad
+    - Pizzasnegle.              (Elizabeth)
+    - Pølsehorn.                (Elizabeth)
+- Snaks
+    - Chips, nødder og shit     (Bjarke og Nadia)
+
+## Lav pris liste.
+- PinaColada                15 kr.
+- Lemonade                  15 kr.
+- Tequala Sunrice           15 kr.
+- Øl                        10 kr.
+- Sjusser                   10 kr.
+- Shots                      5 kr. (5. for 20 kr.)
+- Sodavand                   5 kr.
+
+## Aftal indkøb.
+- Sodavand
+    - Cola
+    - Sprite / Faxecondi
+    - Appelsin Sodavand
+    - Pepsi Max
+- Sjusser.
+    - Sodavand.
+    - Vodka.
+- Shots
+    - Tequala.
+    - Små Sure/søde/lort
+    - Citron
+    - Salt
+- Lynchburg Lemonade
+    - Wiskey
+    - Simple Surup
+        - Sukker
+    - Lemon-lime soda(Sprite eller 7-up)
+- PinaColada:
+    - Ananas Jouice
+    - Flødeskum
+    - Malibu / Hvid Rom
+- Tequala Sunrice.
+    - Tequala
+    - Appelsin Jouce
+    - Rød granadin
+
+## Lav bar plan.
+Erik Cantor, Elizabeth, Erik Erikson, Bjarke, Stinne, Casper og Nadia.
+
+Bjarke 2
+Elizabeth 2
+Nadia 2
+Erik C. 1
+Erik E. 1
+Casper 1
+Stinne 1
+
+20.00 - 21.00
+    Bjarke
+    Elizabeth.
+21.00 - 22.00
+    Elizabeth
+    Nadia
+22.00 - 23.00
+    Stinne
+    Eric C.
+23.00 - 24.00
+    Bjarke
+    Naida
+24.00 - 01.00
+    Casper
+    Eric C.
+01.00 - 02.00
+    Stinne
+    Erik E.
+02.00 - 03.00
+    Casper
+    Erik E.
+
+
+## TODO
+- Erik spørger Mishell om vi kan bruge de der plastik jugs til lemonade.
+- Bjarke find ud af om du kan købe ind, 
+
+
+> }}}
+> {{{ 05/08 - 2017
+# Referat 5 August 2017
+Tilstedeværende.
+    - Bjarke.
+    - Pia.
+    - Elizabeth.
+    - Nadia.
+    - Erik Cantor.
+
+Sidste frist 28.
+Abselut sidste tilmelding 31.
+
+Tilmelding på Pia's mail.
+
+TIDER!!!
+    - Fra 17.00 - 18.00 er det forum hvor vi kan tale om ting på teateret.
+    - Fra 18.00 - 20.00 er der mad.
+    - Fra 20.00 - evigt er der fest.
+
+MAD!!!!
+- Hovedret:
+    - Pulled pork burger. Erik.
+    - Pasta salat.
+    - Cold slaw.
+    - (Fløde) Katoffel.
+
+Desert:
+    - Brownie med is + frugt.
+
+Natmad:
+    - Pizzasnegler.
+    - Pølsehorn.
+
+Drink:
+    - Lynchburg Lemonade.
+    - Tequila Sunrice.
+    - Pinacolada.
 > }}}
 > {{{ 17/07 - 2017
 # Referat 17 Juli 2017.
@@ -54,44 +202,6 @@ Dagsorden:
   
 Find ud af til næste gang:
   Bjarke: Hvad for et budget har vi.
-> }}}
-> {{{ 05/08 - 2017
-# Referat 5 August 2017
-Tilstedeværende.
-    - Bjarke.
-    - Pia.
-    - Elizabeth.
-    - Nadia.
-    - Erik Cantor.
-
-Sidste frist 28.
-Abselut sidste tilmelding 31.
-
-Tilmelding på Pia's mail.
-
-TIDER!!!
-    - Fra 17.00 - 18.00 er det forum hvor vi kan tale om ting på teateret.
-    - Fra 18.00 - 20.00 er der mad.
-    - Fra 20.00 - evigt er der fest.
-
-MAD!!!!
-- Hovedret:
-    - Pulled pork burger. Erik.
-    - Pasta salat.
-    - Cold slaw.
-    - (Fløde) Katoffel.
-
-Desert:
-    - Brownie med is + frugt.
-
-Natmad:
-    - Pizzasnegler.
-    - Pølsehorn.
-
-Drink:
-    - Lynchburg Lemonade.
-    - Tequila Sunrice.
-    - Pinacolada.
 > }}}
 > {{{ 05/05 - 2017
 # Referat 5 May 2017.
