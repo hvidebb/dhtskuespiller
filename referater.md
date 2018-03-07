@@ -1,4 +1,35 @@
-> {{{ 27/08 - 2017
+Sat Nov  4 15:00:00 CET 2017
+
+Drinks:
+Grim Reaper:
+  - 1 del Kalhua
+  - 1 del Barcardi
+  - Deash granadine
+
+Black Magic Halloween Cocktail:
+  - 1/4 cup ice
+  - 1/2 cup orange juice
+  - 1 1/2 ounces black vodka
+  - 1/2 ounce triple sec
+  - orange wedge, for garnish
+
+Sleepy Hollow:
+  - Multijouse.
+  - Tequila.
+  - Grøn Granadin.
+
+Sat Oct 21 18:09:35 CEST 2017
+
+Konkurrencen:
+- Bedst kostume og Sang combo.
+- Sjoveste kostume.
+- Mest gennemførte kostume.
+
+Drinks:
+- Noget med gulerodsjource.
+- Bloodymary.
+- Rom og cola med lime. 
+
 # Referat 27 August 2017
 - Tilstedeværende:
     - Erik Laursen Canter
